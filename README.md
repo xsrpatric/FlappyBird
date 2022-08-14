@@ -10,4 +10,4 @@
 
 <br>
 <h4>📈 Status do projeto <h4>    
- ✔ 1%
+ ✔ 95%
